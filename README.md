@@ -1,1 +1,2 @@
 # Motivational-Messages
+This Twilio bot sends good feel SMS messages to brighten your day. Every morning, you'll receive a positive message delivered straight to your phone. Whether you're in need of a little motivation or just want to start your day on a positive note, this bot has you covered. From inspiring quotes to uplifting messages, you can count on it to send you a daily dose of good vibes. This project is open source and available for anyone to use.
